@@ -2,13 +2,7 @@
 
 Spring Boot ile geliştirilmiş basit bir Todo uygulaması.
 
-## 🚀 Özellikler
 
-- Task ekleme
-- Task listeleme
-- MySQL veritabanı entegrasyonu
-- Thymeleaf template engine
-- Responsive web arayüzü
 
 ## 🛠️ Teknolojiler
 
